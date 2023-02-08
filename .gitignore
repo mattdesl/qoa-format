@@ -1,0 +1,7 @@
+bower_components
+node_modules
+*.log
+.DS_Store
+test/fixtures/sine.wav
+test/fixtures/sine-qoa.wav
+test/fixtures/sine.qoa
